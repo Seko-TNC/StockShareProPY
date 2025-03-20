@@ -1,6 +1,6 @@
 yfinance
 pandas
 streamlit
-TA-Lib
+TA-Lib-binary
 numpy
 scikit-learn
